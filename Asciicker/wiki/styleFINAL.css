@@ -1,0 +1,17 @@
+/* Import the theme */
+
+
+@import url(http://themes.wikidot.com/local--files/monobook/monobook.css);
+
+/* Show a logo for the wiki */
+
+#header h1 a, #header h1 a:hover{
+    background-image:url(https://cdn.discordapp.com/attachments/651708468700643330/736268626663047218/favicon.png);
+}
+
+#container{
+    background-image:url(https://cdn.discordapp.com/attachments/651708468700643330/736261156691378196/Background.png);
+}
+.member .error-block{
+display:none;
+}

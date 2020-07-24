@@ -3,6 +3,7 @@
 
 #container {
 	margin: 0 0;
+	background-image:url(https://cdn.discordapp.com/attachments/651708468700643330/736261156691378196/Background.png);
 }
 
 #header{
@@ -28,7 +29,7 @@
 	color: #800202;
 }
 #header h1 a:hover{
-	background: none;
+	background-image:url(https://cdn.discordapp.com/attachments/651708468700643330/736268626663047218/favicon.png);
 }
 
 #header h2{
