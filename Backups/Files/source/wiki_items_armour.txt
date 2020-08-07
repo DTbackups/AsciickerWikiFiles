@@ -1,0 +1,22 @@
+There are currently two armour pieces each with two variants, light and heavy.
+
+
+
+
+**Light Helmet**
+Follow the coastline north from where you spawn, it should be near some trees.
+[[image LightHelmet.png]]
+
+
+**Light Chestplate**
+On the beach behind the skull.[[image LightArmor.png]]
+
+
+**Heavy Helmet**
+Behind some rocks next to the two houses.
+[[image HeavyHelmet.png]]
+
+
+**Heavy Chestplate**
+Take a right from the first bridge in the mountains closest to the spawn island, then go straight.
+[[image HeavyChestplate.png]]

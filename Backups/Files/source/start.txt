@@ -41,7 +41,9 @@ This wiki is still pretty new, so please add as much information as you can (pre
 This wiki is still under heavy development, so please do your best to add as much information as possible!
 Here's a TODO (please add if needed):
 * [[[wiki:items]]]
- * [[[wiki:items:consumables]]]
+ * [[[wiki:items:foods]]]
+ * [[[wiki:items:drinks]]]
+ * [[[wiki:items:potions]]]
  * [[[wiki:items:armour]]]
  * [[[wiki:items:weapons]]]
  * [[[wiki:items:rings]]]

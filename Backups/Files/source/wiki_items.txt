@@ -1,9 +1,11 @@
 Items are used in game to access certain abilities.
-There are currently four types of items.
-* [[[wiki:items:weapons |Weapons]]]
-* [[[wiki:items:armour |Armour]]]
-* [[[wiki:items:rings |Rings]]]
-* [[[wiki:items:consumables |Consumables]]]
+There are currently six types of items:
+* [[[wiki:items:foods |Foods]]],
+* [[[wiki:items:drinks |Drinks]]],
+* [[[wiki:items:potions |Potions]]],
+* [[[wiki:items:weapons |Weapons]]],
+* [[[wiki:items:armour |Armour]]],
+* [[[wiki:items:rings |Rings]]].
 
 Example of player inventory:
 
@@ -11,7 +13,8 @@ Items from left to right are as follows:
 Wine, Unidentified Pink Ring, Plum, Plus Sword and Heavy Armor
 
 [[image inventory.PNG size="small"]]
-Wine and Plum are [[[wiki:items:consumables |Consumables]]], while Unidentified Pink Ring is [[[wiki:items:rings |Ring]]] type, Sword is Weapon and Heavy Armor is [[[wiki:items:armour |Armour]]] type item.
+Wine is [[[wiki:items:drinks |Drink]]],
+Plum is [[[wiki:items:consumables |Food]]], while Unidentified Pink Ring is [[[wiki:items:rings |Ring]]] type, Sword is Weapon and Heavy Armor is [[[wiki:items:armour |Armour]]] type item.
 
 [[[wiki:items:weapons |Weapons]]], [[[wiki:items:rings |Rings]]] and [[[wiki:items:armour |Armour]]] can be equipped.
-In inventory this selection reflects with red in background.
+In inventory this selection reflects with red colour in background.
