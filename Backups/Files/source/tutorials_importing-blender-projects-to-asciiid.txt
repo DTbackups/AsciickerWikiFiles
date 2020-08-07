@@ -1,0 +1,11 @@
+You can add blender projects to ASCIIID as meshes. 
+
+First, add plugin.
+
+Then, open project.
+
+Then, export as akm using correct settings
+
+Finally, put it in the folder
+
+It should now be usable

@@ -1,0 +1,64 @@
+[[=image banner.png style="width: 100%;"]]
+[[table style="width: 100%;"]]
+[[row]]
+[!-- INTRODUCTION CELL --]
+[[cell style="width: 100%; font-size: 110%; border: 1px solid grey; background-color: #F6F9F6; padding: 10px;"]]
+
+[[include :irongiant:clone]]
+
++ Welcome to the ASCIICKER wiki!
+
+This is the wiki with information about ASCIICKER. 
+
+Here are a couple external links:
+* [https://asciicker.com The home page for ASCIICKER]
+* [https://asciicker.com/y6 The latest stable version of ASCIICKER]
+* [https://reddit.com/r/asciicker The official ASCIICKER subreddit]
+* [https://discordapp.com/invite/DzSuhHs The official ASCIICKER discord server]
+
+This wiki is still pretty new, so please add as much information as you can (preferably cited), discuss said information on [[[talk:start|talk pages]]] and the discord server, and share it around. Have fun browsing and editing!
+
+[[/cell]]
+[[/row]]
+[[/table]]
+
+------
+
+[[table style="width: 100%;"]]
+[[row]]
+[!-- FIRST LEFT CELL --]
+[[cell style="width: 50%; border: 1px solid grey; background-color: #EDFCEA; padding: 10px; vertical-align: top;"]]
+
+++* Latest News
+[[module ListPages  category="chatter" limit="5" separate="false" order="dateEditedDesc"]]
+* [[size 110%]]**%%linked_title%%**[[/size]] [[size 80%]]posted by %%author%% (%%date%%)[[/size]]
+[[/module]]
+
+------
+
+++* Please help us
+
+This wiki is still under heavy development, so please do your best to add as much information as possible!
+Here's a TODO (please add if needed):
+* [[[wiki:items]]]
+ * [[[wiki:items:consumables]]]
+ * [[[wiki:items:armour]]]
+ * [[[wiki:items:weapons]]]
+ * [[[wiki:items:rings]]]
+* ASCIICKER versions (see [[[wiki:versions]]])
+* Map features (see [[[wiki:map]]])
+* Making main page mobile-friendly (I have no clue how to do this help)
+
+[[/cell]]
+[!-- FIRST RIGHT CELL --]
+[[cell style="width: 50%; border: 1px solid grey; background-color: #EDFCEA; padding: 10px; vertical-align: top;"]]
+++* Article links
+* [[[wiki:versions |All ASCIICKER versions]]]
+* [[[wiki:gumix |ASCIICKER's creator and developer]]]
+* [[[wiki:modding |Information about mods]]]
+* [[[wiki:map | The map and its features]]]
+
+[[/cell]]
+[[/row]]
+[[/table]]
+[[image homescreen.gif style="width: 100%;"]]

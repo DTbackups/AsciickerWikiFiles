@@ -1,0 +1,21 @@
++ Description
+Very similar to x1. Introduces water and rock terrain, which seems to be painted when the terrain is high (rock) or really low (water). The island (sort of speak) is surrounded by water and then a black background.
+
+++ Features
+**Green background replaced with black**
+**Grey land when terrain is high**
+**Blue land when terrain is really low**
+Click and drag to move around
+Randomly generated terrain
+Green hills
+Grid lines
+Buttons for rotating
+
++ Chronology
+Gumix [https://twitter.com/MrGumix/status/910773924232757248 announced this version] on September 21, 2017
+
++ Bugs
+This version carries all bugs from x1
+
++ External Links
+[https://asciicker.com/x2 Play x2 Now]

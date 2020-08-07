@@ -1,0 +1,22 @@
+[[div style="float:left; width: 68%"]]
+%%content%%
+
+[[module Comments title=""]]
+[[/div]]
+[[div style="float:right; width:30%; border:1px solid #cedff2; background:#f5faff; padding: 5px 5px 5px 5px"]]
+[[button edit text="Edit"]] | [[button files text="Files"]] | [[button tags text="Tags"]] | [[button source text="Source"]] | [[button print text="Print"]]
+[[module Rate]]
+
+++ Recent chatter
+
+[[module ListPages category="chatter"]]
+**%%linked_title%%**
+%%summary%%
+
+[[/module]]
+[[/div]]
+~~~~
+
+====
+
+Paragraph of text

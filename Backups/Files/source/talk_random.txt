@@ -1,0 +1,15 @@
+**[[user leiger]] wrote:**
+
+http://monodot.wikidot.com uses this code in the sidebar:
+
+[[code]]
+[[module ListPages order="random" limit="1" skipCurrent="true"]]
+* [[[%%page_unix_name%%|Random Page]]]
+[[/module]]
+[[/code]]
+
+Does Wikidot have any problems with this being used for this template, considering that it's searching the whole site for a random page?
+
+Or does the limit="1" prevent any performance issues ?
+
+-----------------------------------------------------------------------------

@@ -1,0 +1,5 @@
++ Description
+x4 is a lines rendering test using Bresenham's algorithm with box clipping as a bonus. (explanation by gumix)
+
++ Chronology
+Gumix haven't announced this version on twitter.

@@ -1,0 +1,31 @@
+//This is a template project: we are making a template for open source project wikis.  Right now this template is open to contributions from any registered Wikidot user.  If you want to help with designing or fine-tuning, join the project as a member.  The password is 'password'.//
+
+[[module MembershipByPassword]]
+
+**Who can join?**
+
+You do not need to be a member to view the site, but joining provides benefits such as regular email alerts with news about significant site additions and updates, and will also let you log in and contribute by editing and adding content in order to enrich the overall site in a collaborative way.
+
+Details about the information and data collected from registered users, and the limited use it is put to, can be found in the 'Site information' tab on the home page.
+
+**How to join**
+
+There are two steps you need to complete to join our site and begin contributing.
+
+First you need to register and create a user account with Wikidot. Next, when logged in to Wikidot, you need to come back to this page and apply to join the site.
+
+**Registering with Wikidot**
+
+If you are interested in applying to join this site, then you first need to register for a Wikidot account. Wikidot is the service used to create and host this website.
+
+If you already have a Wikidot account, then please login using the 'login' link below, and then return to this page and apply to join the site.
+
+If you do not already have a Wikidot account, then you can begin registration by clicking the 'create a new account' link below. The registration process will involve providing a valid email address that a verification code can be sent to. Once you have this code, follow the link in the email to enter the code and complete your Wikidot registration. When you have registered and logged in, please return to this page and apply to join the site.
+
+**Applying to join our site**
+
+In order to apply you must have registered with Wikidot, and be logged in.
+
+To apply to join, please use the text box below to tell us a little about yourself and your interest in the census. When you have been approved to join you will be notified via email and your Wikidot account notifications.
+
+[[module MembershipApply]]

@@ -1,0 +1,14 @@
+[[size 190%]]%%content{1}%%[[/size]] ([/%%content{1}%% view original])
+
+[[div style="border-top: 1px solid #666;"]]
+[[/div]]
+
+[[include %%content{1}%%]]
+
+======
+
+Replace this text with the page name you wish to feature, in this form -- wiki:page-name-here
+
+======
+
+Replace this line with a short description of the featured page, then press Ctrl-S or click Save.

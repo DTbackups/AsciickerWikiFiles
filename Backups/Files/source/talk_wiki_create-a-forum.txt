@@ -1,0 +1,1 @@
+@tsangk: do we want to explain how to create a forum on a classic wiki?  If we are going to provide forums on the templates, I'd like to use the new style we made for the opensource template (ListPages based).  But for a classic wiki, we kind of agreed that the talk pages would be better than a forum. -- [[user pieterh]]

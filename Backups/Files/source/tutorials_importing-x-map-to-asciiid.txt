@@ -1,0 +1,27 @@
+++ Step 1: Download the X map
+
+Starting from [[[wiki:versions:X5|X5]]] until [[[wiki:versions:X12|X12]]], maps are stored at  asciicker.com/<version>/images/map.png, and [[[wiki:versions:X13]]] image is stored as [http://asciicker.com/x13/images/map2.png map2.png]. Just download this image, and you have the map.
+
+[[collapsible show="+ Show all images" hide="- Hide images"]]
+
+X5: [[image https://asciicker.com/x5/images/map.png]]
+X6: [[image https://asciicker.com/x6/images/map.png]]
+X7: [[image https://asciicker.com/x7/images/map.png]]
+X8: [[image https://asciicker.com/x8/images/map.png]]
+X9: [[image https://asciicker.com/x9/images/map.png]]
+X10: [[image https://asciicker.com/x10/images/map.png]]
+X11: [[image https://asciicker.com/x11/images/map.png]]
+X12: [[image https://asciicker.com/x12/images/map.png]]
+X13: [[image https://asciicker.com/x13/images/map2.png]]
+
+[[/collapsible]]
+
+++ Step 2: Put it in the maps folder
+In your local version, ([[[tutorials:download local version]]]), put the map picture into the "maps" directory (you may have to create this). Rename this to "new.png".
+
+++ Step 3: Import it into asciiid
+Open up asciiid, and under the "View" menu, press "New'.
+
++ Video Tutorial
+
+[[embedvideo]]<iframe width="560" height="315" src="https://www.youtube.com/embed/iGKOgI19oXM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>[[/embedvideo]]

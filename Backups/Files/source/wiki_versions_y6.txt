@@ -1,0 +1,37 @@
+**Y6** is the latest version of ASCIICKER, announced on the 20th of May, 2020.^^[((bibcite twitterAnnounce))][((bibcite redditAnnounce))][((bibcite discordAnnounce))]^^. Its most notable changes are the addition of a perspective view and wearable armour.
+
++ Controls^^[((bibcite controls))]^^
+(Blank indicates that controls don't exist for that platform)
+[[div style="width: 75%;margin:0 auto;"]]
+||  || Keyboard || Mouse || Touch || 
+|| Move || {{WASD}} keys/Arrow keys || Press and hold LMB in desired direction || Touch anywhere on screen, and drag in desired direction ||
+|| Move slower || Shift key || || ||
+|| Rotate camera || {{Q/E}} keys || Drag RMB || Hold finger on left/right screen edge ||
+|| Jump || Space key || Press RMB while holding LMB || While moving, tap with another finger (must not have weapon) ||
+|| || || || ||
+|| Open/close inventory || {{I}} key || Tap on character icon in upper-left corner || Same as with mouse ||
+|| Pick up item ||  Go near the item and press the corresponding number || Go near item and tap/click the popup or drag item into open inventory || Same as with mouse ||
+|| Consume/equip/unequip items || || RMB click item in inventory || Press and hold item with one finger, and then press with another ||
+|| Remove items from inventory ||  Highlight item and press 0 (even if inventory is closed) || Drag item outside inventory window and drop || Same as with mouse || 
+|| || || || ||
+|| Attack (must have weapon) || Enter || Press RMB while holding LMB || While moving, tap with another finger ||
+|| || || || ||
+|| Change between perspective and normal mode || {{\}} || Press question mark button in the top right || Same as mouse ||
+[[/div]]
++ Changes ^^[((bibcite twitterAnnounce))][((bibcite redditAnnounceChangelist))]^^
+* Armour and helmets are now wearable
+* There is an optional perspective view
+* Addition of a semi-transparent smoke effect
+* Addition of a sword swooshing effect
+* Mobile players given the ability to use sword
+
++ External links
+* [https://asciicker.com/y6 online version]
+* [https://asciicker.com/y6/asciicker_y6_x64_ok.7z native build]
+[[bibliography]]
+: twitterAnnounce : https://twitter.com/MrGumix/status/1263089547417698304
+: redditAnnounce : https://www.reddit.com/r/asciicker/comments/gnc7d6/y6_is_out_changelist_in_comments/
+: redditAnnounceChangelist : https://www.reddit.com/r/asciicker/comments/gnc7d6/y6_is_out_changelist_in_comments/fr8z7q0/?context=8&depth=9
+: discordAnnounce : https://discordapp.com/channels/651708466590646272/653348680228929567/712655387798536212
+: controls : Local version's {{controls.txt}}
+[[/bibliography]]

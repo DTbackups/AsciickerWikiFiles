@@ -1,0 +1,20 @@
+This is the first online version of ASCIICKER, and presumably the first ASCIICKER version altogether.
+
++ Description
+It features primitive green hills and an early click to rotate button. It features the grid lines, which are made with the characters: comma, apostrophe, and semicolon (, ’ ;). The terrain is randomly generated every time the version is loaded.
+
+++ Features
+Click and drag to move around
+Randomly generated terrain
+Green hills
+Grid lines
+Buttons for rotating
+
++ Chronology
+Gumix [https://twitter.com/MrGumix/status/909832120545275910 announced the version] on September 18, 2017.
+
++ Bugs
+Using the zoom in feature doesn’t actually change the font size, it instead zooms it in and makes it blurry. Despite having a [https://asciicker.com/x1/fonts fonts folder] with 7 fonts. However, zooming out changes font size but makes Chrome really laggy and can freeze it.
+
++ External Links:
+[https://asciicker.com/x1 Play X1 Here.]

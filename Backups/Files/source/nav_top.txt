@@ -1,0 +1,11 @@
+* **[[[start | main]]]**
+* [[button talk text="discuss"]]
+* **[# edit this page]**
+ * [[button edit text="edit this page"]] 
+ * [[button edit-sections text="edit (sections)"]]
+ * [[button edit-append text="edit (append)"]]
+* [[button source text="view source"]]
+* [[button history text="history"]]
+* [# other tools]
+ * [[button tags text="page tags"]]
+ * [[button files text="manage files"]]

@@ -1,0 +1,5 @@
++ Description
+A copy of y2 but with red hearts placed all around the map. It temporarly replaced the home page for valentine's day.
+
++ Chronology
+Gumix announced this change to the home page on [https://discordapp.com/channels/651708466590646272/653348680228929567/677794817564213258 discord]

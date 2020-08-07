@@ -1,0 +1,33 @@
+As the official instructions for the theme explain (see: [*http://monobook.wikidot.com/doc:features#toc1 Adding a Logo]), your logo must be an image with dimensions 150x150.
+
+We've already added this to your wiki's CSS:
+
+[[code type="css"]]
+/* Show a logo for the wiki */
+
+#header h1 a, #header h1 a:hover{
+    background-image:url(/local--files/start/wiki-logo-150.png);
+}
+
+#container{
+    background-image:url(http://monobook.wikidot.com/local--files/index/monobook-header.gif);
+}
+[[/code]]
+
+To change the logo you either:
+
+# Go to the [/start welcome page] and upload a file named wiki-logo-150.png with dimensions 150px by 150px, or
+# Upload a file to a different location or with a different filename, and edit the CSS to reflect these changes
+
+++ Editing the CSS
+
+You can edit the CSS using [/admin:manage Site Manager].
+
+# Site Manager
+# Appearance
+# Custom Themes _
+[[size 80%]][/admin:manage/start/customthemes (Direct Link to Custom Themes)] [*/admin:manage/start/customthemes (Open Custom Themes in a new tab/window)][[/size]]
+# Click "edit" next to the theme titled {{monobook-fereal}}
+# Find the following line: {{@@#header h1 a; #header h1 a:hover{@@}}
+# Edit the {{background-image:url}} option so that it has the correct URL
+# Save the changes

@@ -1,0 +1,6 @@
++ Description
+x3 is a sprite test, with key-color and heightmap. with scrolling added in as a bonus. (explanation by gumix)
+
++ Chronology
+Gumix [https://twitter.com/MrGumix/status/925328354605137921 announced this version] on **October 31, 2017.**
+It also features a new house sprite which dates back to October 30, 2017 10:18.

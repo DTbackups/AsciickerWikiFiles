@@ -1,0 +1,18 @@
++ Description
+adds some new stuff like: water reflections, a new map, and some bots which always walk, and turn randomly. It also fixes the “find in page” bug when trying to record using F3 in some browsers
+++ Features
+lazy to add
+Recording
+Weird trees
+Animated player
+Randomly placed houses
+Sensitive rotating that rotates up to 6 angles
+A bunch of hills to climb up on
+Map rendering version 2 (TBA)
+Grid lines
+Shallow and clear water
+Moving via WASD and arrow keys
+Click and drag movement
+Friction when you stop moving is slippery
+Pressing Q and E rotates your perspective up to 12 angles
+Can climb up any hill at ease

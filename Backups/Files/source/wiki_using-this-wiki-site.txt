@@ -1,0 +1,25 @@
+This text explains how this site works.  If you are the site admin, read this text and when you understand it, edit it to remove the notes so that it makes sense for your users.
+
+This site implements a classic Mediawiki-style wiki in Wikidot.  Use this wiki for knowledge bases, especially if your contributors or users expect a Wikipedia-similar look and feel.  If you need discussion forums, there are better designs.
+
+Anyone, having registered with Wikidot, can create a wiki page or edit existing wiki pages.  Only site members can edit other pages, such as the menus.
+
+[[note]]
+Allowing all registered users to create or edit pages can allow spam, but Wikidot's email notification system means you will get a notice right away, so you can delete the spam.  This is easy and painless in practice.
+[[/note]]
+
+[[note]]
+Members of the site can edit important pages.  If you want to allow others to configure the site, make them admins.  Note that these powers //should only// be given to people you trust.
+[[/note]]
+
+++ The Wiki Area
+
+The wiki area is open to all registered Wikidot users to create and edit freely.  To organize wiki pages we use tags.  The wiki area provides a workspace for collaborative work, especially documentation in raw form.
+
+++ Email notifications
+
+By default, the site admin and all site members will get notified when anything on the site changes.  This can create a lot of email but it lets you rapidly answer posts, delete spam, and check edits to pages.
+
+Other users will get email notifications only for the page they created, edited, or commented on.  This is rather like joining a mini email list.
+
+Any registered user can also explicitly "Watch" the whole site, a category, or a specific page.

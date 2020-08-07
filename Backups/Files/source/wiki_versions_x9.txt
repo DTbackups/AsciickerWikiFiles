@@ -1,0 +1,5 @@
++ Description
+This version is x7 but with an animated Chuck (added since x8), weird trees (added since xx), and a new recording feature.
++ Controls
+F2 - Screenshot
+F3 - Record/End recording (might not be possible due to F3 being bounded to “find in page” in some browsers)

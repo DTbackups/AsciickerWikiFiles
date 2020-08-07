@@ -1,0 +1,45 @@
+[!-- NOTE: if you add or remove lines in the navigation menu you MUST update the custom CSS.
+ One line in the navigation menu = 19pixels height. --]
+
++ Start
+
+* [/start Main page]
+* [/wiki:versions Asciicker Versions]
+* [/random Random article]
+
++ Edit
+* [/system:list-all-pages List of all pages]
+* [/help Help]
+* [/system:recent-changes Recent changes]
+
+
++ search
+
+[[module Search mini="true"]]
+
+* [/about About this site]
+* [/contact Contact]
+* [/help Help]
+
++ toolbox
+
+* [[button print text="Printable version"]]
+* [[[_admin|Site manager]]]
+* [/nav:side/edit/true Edit this menu]
+* [/nav:top/edit/true Edit top menu]
+* [/snippet:_start Manage snippets]
+
++ pages
+[!-- Add a new page --]
+[[module NewPage size="16" button="new page" category="wiki"]]
+
++ watchers
+[!-- Watchers --]
+[[=]]
+[[module Watchers]]
+[[/=]]
+
+[!----- This has been configured in the CSS to be displayed at the upper portion of the site. -----]
+[[module ListPages category="snippet" limit="1" order="random"]]
+%%title%%
+[[/module]]

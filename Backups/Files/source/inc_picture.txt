@@ -1,0 +1,8 @@
+[[include inc:picture-backend
+|float={$float} |float=auto
+|pictureurl={$pictureurl} |pictureurl=javascript:;
+|link={$link} |link={$pictureurl}
+|picresize={$picresize} |picresize=195px
+|caption={$caption} |caption=@@
+|heading={$heading} |heading=@@
+]]

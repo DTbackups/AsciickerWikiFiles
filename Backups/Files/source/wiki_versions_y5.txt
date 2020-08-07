@@ -1,0 +1,33 @@
+**Y5** is a version of ASCIICKER, announced on the 28th of April, 2020.^^[((bibcite twitterAnnounce))][((bibcite redditAnnounce))][((bibcite discordAnnounce))]^^
+
++ Controls^^[((bibcite controls))]^^
+(Blank indicates that controls don't exist for that platform)
+[[div style="width: 75%;margin:0 auto;"]]
+||  || Keyboard || Mouse || Touch || 
+|| Move || {{WASD}} keys/Arrow keys || Press and hold LMB in desired direction || Touch anywhere on screen, and drag in desired direction ||
+|| Move slower || Shift key || || ||
+|| Rotate camera || {{Q/E}} keys || Drag RMB || Hold finger on left/right screen edge ||
+|| Jump || Space key || Press RMB while holding LMB || While moving, tap with another finger ||
+|| || || || ||
+|| Open/close inventory || {{I}} key || Tap on character icon in upper-left corner || Same as with mouse ||
+|| Pick up item ||  Go near the item and press the corresponding number || Go near item and tap/click the popup or drag item into open inventory || Same as with mouse ||
+|| Consume/equip/unequip items || || RMB click item in inventory || Press and hold item with one finger, and then press with another ||
+|| Remove items from inventory ||  Highlight item and press 0 (even if inventory is closed) || Drag item outside inventory window and drop || Same as with mouse || 
+|| || || || ||
+|| Attack || Enter || || ||
+[[/div]]
++ Changes
+* More stark color grading
+* Bridges on [[[wiki:map#Rock Island]]]
+* Introduction of dead/leafless trees
+
++ External links
+* [https://asciicker.com/y5 online version]
+* [https://asciicker.com/y5/asciicker_y5_x64.7z native build]
+* [http://asciicker.com/y5/asciiid_grid_alpha.exe alternative asciiid (mapping tool) with new gridless option]
+[[bibliography]]
+: twitterAnnounce : https://twitter.com/MrGumix/status/1255183049521799173?s=20
+: redditAnnounce : https://www.reddit.com/r/asciicker/comments/g9qf6s/version_y5_is_now_live/
+: discordAnnounce : https://discordapp.com/channels/651708466590646272/653348680228929567/704730847248384040
+: controls : Local version's {{controls.txt}}
+[[/bibliography]]

@@ -1,0 +1,17 @@
+Items are used in game to access certain abilities.
+There are currently four types of items.
+* [[[wiki:items:weapons |Weapons]]]
+* [[[wiki:items:armour |Armour]]]
+* [[[wiki:items:rings |Rings]]]
+* [[[wiki:items:consumables |Consumables]]]
+
+Example of player inventory:
+
+Items from left to right are as follows:
+Wine, Unidentified Pink Ring, Plum, Plus Sword and Heavy Armor
+
+[[image inventory.PNG size="small"]]
+Wine and Plum are [[[wiki:items:consumables |Consumables]]], while Unidentified Pink Ring is [[[wiki:items:rings |Ring]]] type, Sword is Weapon and Heavy Armor is [[[wiki:items:armour |Armour]]] type item.
+
+[[[wiki:items:weapons |Weapons]]], [[[wiki:items:rings |Rings]]] and [[[wiki:items:armour |Armour]]] can be equipped.
+In inventory this selection reflects with red in background.

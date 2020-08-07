@@ -1,0 +1,6 @@
+Grey potion is used to spawn and ride giant grey wolf.
+
+Currently ([[[wiki:versions:y6 |Y6]]]) the wolf has aesthetic usage only.
+
+Player riding wolf:
+[[<image wolf.PNG]]

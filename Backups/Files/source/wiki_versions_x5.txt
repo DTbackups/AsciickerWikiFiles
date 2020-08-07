@@ -1,0 +1,14 @@
++ Description
+This one is more different than X2. It has shaded flat lands. This also features a map in the /images directory, something that is going to update later.
+
+++ Features
+Moving via WASD and arrow keys
+Click and drag movement
+Friction when you stop moving is slippery
+Pressing Q and E rotates your perspective up to 12 angles
+Can climb up any hill at ease
+Flat-ish hills
+Map rendering version 1
+
++ Date
+The new map dates back to 2017-12-06 15:34.

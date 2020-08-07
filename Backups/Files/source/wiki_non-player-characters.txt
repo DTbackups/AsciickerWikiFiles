@@ -1,0 +1,17 @@
+Some versions of asciicker have non-player characters.
+
++ History
+
+++ X Engine
+
+Non-player characters were introduced in [[[wiki:versions:x10 | x10]]], where there were several that moved in a straight line, before turning a random angle at a seemingly random time.
+
+There were no NPC's in [[[wiki:versions:x11 | x11]]] due to it being multiplayer, but they were subsequently reintroduced for [[[wiki:versions:x12 | x12]]] and [[[wiki:versions:x13 | x13]]]. 
+
+++ Y Engine
+
+Non-player characters are a planned feature for [[[wiki:versions:y7 | y7]]]^^[((bibcite y7Proof))]^^, as part of the battle mechanics. They will have visible health bars above their heads to show how much HP they have, and are capable of attacking each other or the player, depending on their allegiance. They are capable of wearing [[[wiki:items:armour | armour]]].  
+
+[[bibliography]]
+: y7Proof : https://twitter.com/MrGumix/status/1278368277190901760
+[[/bibliography]]

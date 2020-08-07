@@ -1,0 +1,3 @@
+[[module ListPages category="wiki" order="random" limit="1" range="others"]]
+[[iframe http://snippets.wdfiles.com/local--code/code:iframe-redirect#%%link%%]]
+[[/module]]

@@ -1,0 +1,14 @@
+Modding is the of changing the game's code and/or sources. Modding is currently used to express fanart in forms of altered [[[spritesheets]]] or changing the [[[wiki:map]]]. 
+
++ Chronology
+[[[wiki:gumix |Gumix]]] recalled that there have been mods that were minor modifications made in around 2018. However, they are not on the internet and he cannot remember all of them[((bibcite earlyMods))].
+
+The first mod that is online today was made by the reddit user u/Gabrieldd001 (Gabriel). In December of 2019, he [https://www.reddit.com/r/asciicker/comments/dxf2tg/i_found_this_and_now_i_would_like_to_know_how_to/?utm_source=share&utm_medium=web2x posted] in the ASCIICKER subreddit with his discovery that X versions use a image to generate terrain. Gumix then helped him create a local server so he could load custom maps. Gabriel later made another [https://www.reddit.com/r/asciicker/comments/dxre0q/custom_map_setup_and_submissions/?utm_source=share&utm_medium=web2x post], where he described how to create new maps for X13 and below. In the comments of the post, he [https://www.reddit.com/r/asciicker/comments/dxre0q/custom_map_setup_and_submissions/f7v4fgd?utm_source=share&utm_medium=web2x listed] a couple new maps he had created himself.
+
+In the period after y4_alpha's native was released, the user u/fordgeorge (Celiori) released a mod where Chuck was changed to a Link sprite[((bibcite originalModPost))]. This is the first sprite edit, before Gabriel's Chester[((bibcite chesterProof))].
+
+[[bibliography]]
+: earlyMods : https://discordapp.com/channels/651708466590646272/651708468700643330/705089283832414348
+: originalModPost : https://www.reddit.com/r/asciicker/comments/fun7x7/i_made_a_link_skin_files_in_comments/?utm_source=share&utm_medium=web2x
+: chesterProof : https://discordapp.com/channels/651708466590646272/653330381012992031/695841631101779990
+[[/bibliography]]

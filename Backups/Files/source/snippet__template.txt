@@ -1,0 +1,16 @@
+Snippets appear at the top of the page.
+
+[!--
+%%content%%
+--]
+
+[[table style="width:100%; border: 1px solid silver; font-weight:bold"]]
+  [[row]]
+    [[cell style="width:80%"]]
+[[module NewPage category="snippet" button="Ok" size="80"]]
+    [[/cell]]
+    [[cell style="width:20%"]] Enter your text and press OK, then press Ctrl-S or click Save. [[/cell]]
+  [[/row]]
+[[/table]]
+
+%%title%%

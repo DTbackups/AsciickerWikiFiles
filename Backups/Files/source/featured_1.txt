@@ -1,0 +1,16 @@
+wiki:using-this-wiki-site
+
+======
+
+[!--
+      leiger: Unfortunately, I couldn't think of a way to show a proper preview on the main page, without showing the //whole// page as an include or iframe
+                 so I went with a short description instead... the site admin or a mod can write a short description themselves, or copy/paste directly as I have done for some of this.
+--]
+
+**The //Using this wiki site// page provides useful information for the Site Admin. New users of Wikidot.com should read this page.**
+
+//This text explains how this site works. If you are the site admin, read this text and when you understand it, edit it to remove the notes so that it makes sense for your users.//
+
+//This site implements a classic Mediawiki-style wiki in Wikidot. Use this wiki for knowledge bases, especially if your contributors or users expect a Wikipedia-similar look and feel. If you need discussion forums, there are better designs.//
+
+//Anyone, having registered with Wikidot, can create a wiki page or edit existing wiki pages. Only site members can edit other pages, such as the menus.//

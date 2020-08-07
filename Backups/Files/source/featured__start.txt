@@ -1,0 +1,34 @@
+Featured articles will appear on the front page. Only administrators and moderators are able to create a new featured article.
+
+To create a new featured article:
+# Enter anything in the box -- it will not be used -- then press OK.
+# On the new page enter the page name in this format: {{wiki:page-name-here}}, and a short description for the page.
+
+[[table style="width:100%; border: 1px solid silver; font-weight:bold"]]
+  [[row]]
+    [[cell style="width:70%"]]
+[[module NewPage category="featured" button="Ok" size="80"]]
+    [[/cell]]
+    [[cell style="width:30%"]] Enter anything in the box and press OK. [[/cell]]
+  [[/row]]
+[[/table]]
+
+[[table style="width:100%; border: 1px solid silver; font-weight:bold; margin-top:1em; padding-left:0.5em"]]
+  [[row]]
+    [[cell style="width: 50%;"]] Previous featured articles [[/cell]]
+    [[cell style="width: 50%;"]] Feature date [[/cell]]
+  [[/row]]
+[[/table]]
+
+[[module ListPages category="featured" order="dateCreatedDesc" separate="no" perPage="50"]]
+  [[table style="width:100%; border:1px solid silver; margin-top:-1px"]]
+    [[row]]
+      [[cell style="padding:0.5em; width: 50%;"]]
+        [%%link%% %%title%%: %%content{1}%%]
+      [[/cell]]
+      [[cell style="padding:0.5em; width: 50%;"]]
+        %%date%%
+      [[/cell]]
+    [[/row]]
+  [[/table]]
+[[/module]]

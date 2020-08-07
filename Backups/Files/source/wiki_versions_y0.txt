@@ -1,0 +1,11 @@
+y0 marks the beginning of the Y Engine, something way less limited than the X Engine.
+
++ Description
+
++ Native builds
+There are 5 of the native builds.
+[https://asciicker.com/y0/asciicker_y0.7z asciicker_y0.7z]
+[https://asciicker.com/y0/asciicker_y0_upd.7z asciicker_y0_upd.7z]
+[https://asciicker.com/y0/asciicker_y0_upd2.7z asciicker_y0_upd2.7z]
+[https://asciicker.com/y0/asciicker_y0_upd3.7z asciicker_y0_upd3.7z]
+[https://asciicker.com/y0/asciicker_y0_upd4.7z asciicker_y0_upd4.7z]

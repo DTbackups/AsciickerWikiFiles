@@ -1,0 +1,57 @@
+[[div style="float: left; width: 40%; border:1px solid #cccccc; margin:1em; padding: 1em"]]
++ Quick reference
+This is a quick reference of the wiki syntax you can use in pages.  Click on any item to see a more detailed explanation.
+
+[*http://www.wikidot.com/doc:wiki-syntax#headings + Level 1 Heading]
+[*http://www.wikidot.com/doc:wiki-syntax#headings ++ Level 2 Heading]
+[*http://www.wikidot.com/doc:wiki-syntax#lists * Bullet items]
+[*http://www.wikidot.com/doc:wiki-syntax#lists # Numbered items]
+[*http://www.wikidot.com/doc:wiki-syntax#block-quotes > Blockquoted text]
+[*http://www.wikidot.com/doc:wiki-syntax#inline //italic text//]
+[*http://www.wikidot.com/doc:wiki-syntax#inline **bold text**]
+[*http://www.wikidot.com/doc:wiki-syntax#inline ##red|standard##]
+[*http://www.wikidot.com/doc:wiki-syntax#block-formatting =Line is centered]
+@@[[<]]@@ [*http://www.wikidot.com/doc:wiki-syntax#block-formatting Lines are aligned left]@@ [[/<]]@@
+@@[[>]]@@ [*http://www.wikidot.com/doc:wiki-syntax#block-formatting Lines are aligned right]@@ [[/>]]@@
+@@[[=]]@@ [*http://www.wikidot.com/doc:wiki-syntax#block-formatting Lines are centered] @@[[/=]]@@
+@@[[==]]@@ [*http://www.wikidot.com/doc:wiki-syntax#block-formatting Lines are right-justified]  @@[[/==]]@@
+@@[[size smaller]]@@[*http://www.wikidot.com/doc:wiki-syntax#text-size smaller text]@@[[/size]]@@
+@@[[size larger]]@@[*http://www.wikidot.com/doc:wiki-syntax#text-size larger text]@@[[/size]]@@
+@@[[code]]@@ [*http://www.wikidot.com/doc:wiki-syntax#code-blocks lines of source code] @@[[/code]]@@
+@@[http://www.wikidot.com@@ [*http://www.wikidot.com/doc:wiki-syntax#urls Text link]@@]@@
+@@[/category:page@@ [*http://www.wikidot.com/doc:wiki-syntax#urls Link to page]@@]@@
+@@[[name-of-page |@@ [*http://www.wikidot.com/doc:wiki-syntax#page-links Link to page]@@]]@@
+[*http://www.wikidot.com/doc:wiki-syntax#rules ---- Horizontal line]
+@@[[image@@ [*http://www.wikidot.com/doc:wiki-syntax#images :first | attachment | uri ] @@]]@@
+@@[[image@@ [*http://www.wikidot.com/doc:wiki-syntax#images size="medium | small | thumbnail"] @@]]@@
+@@[[image@@ [*http://www.wikidot.com/doc:wiki-syntax#images link="name-of-page OR url"] @@]]@@
+@@[[f<image@@ [*http://www.wikidot.com/doc:wiki-syntax#images alt="Float left"] @@]]@@
+@@||@@ [*http://www.wikidot.com/doc:wiki-syntax#tables Simple table]@@ || ~heading || cell ||@@
+@@[[file@@ [*http://www.wikidot.com/doc:wiki-syntax#attachments attachment | link text]@@]]@@
+[[/div]]
+
+[[div style="float: left; width: 40%; border:1px solid #cccccc; margin:1em; padding: 1em"]]
++ Useful links
+If you need more help, there are several resources that you are able to use. Your biggest resource is the group of expert Wikidot users that can be found on the forums.
+
+++ Wikidot Community
+[*http://community.wikidot.com/ Visit the Wikidot Community]
+[*http://community.wikidot.com/forum/start Ask for help on the Forum]
+[*http://community.wikidot.com/help Read the Community How-To's]
+
+++ Editing pages
+[*http://community.wikidot.com/howto:how-to-use:wikidot-editor Learn how to use the Wikidot editor]
+[*http://www.wikidot.com/doc Read the Documentation]
+[*http://www.wikidot.com/doc:wiki-syntax Read more about Wikidot Syntax]
+[*http://www.wikidot.com/doc:modules List of modules that you can use]
+[*http://handbook.wikidot.com/en:keyboard-shortcuts Keyboard shortcuts]
+
+++ Editing the theme
+[*http://wiki-template.wikidot.com/admin:manage/start/customthemes Customise the theme]
+[*http://www.wikidot.com/doc:layout-reference CSS Layout Reference]
+
+++ Additional support
+And if you need even more help, you can always upgrade to a [*http://www.wikidot.com/plans Pro account], and visit the [*http://pro.wikidot.com/ Pro ;-)] wiki!
+
+You can upgrade by clicking on [*http://www.wikidot.com/account:you my account] and selecting the **Upgrades** option in the menu.
+[[/div]]

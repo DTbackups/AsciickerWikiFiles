@@ -1,0 +1,24 @@
+[!-- {$float} --][[[@@|]]][[table style="float:{$float}; border: 1px solid #888; background-color: #FFF; margin-left:5px; margin-right:5px; margin-top:5px; margin-bottom:5px; margin:{$float};"]]
+[[row]]
+[[cell style="text-align:center; width:{$picresize}; background:#CACACA;"]]
+[!-- --]
+[!-- {$heading} --][[[@@|]]]**{$heading}**
+[!-- --]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="width:{$picresize}; text-align:center;"]]
+
+[!-- {$pictureurl} --][[[@@|]]][[image {$pictureurl} link="{$link}" width="{$picresize}" alt="Image Unavailable" style="border:1px solid #999;"]]
+[!-- --]
+[[/cell]]
+[[/row]]
+
+[[row]]
+[[cell style="text-align:center; width:{$picresize}; font-size:80%; font-style:italic;"]]
+[!-- {$caption} --][[[@@|]]]{$caption}
+[!-- --]
+[[/cell]]
+[[/row]]
+[[/table]]

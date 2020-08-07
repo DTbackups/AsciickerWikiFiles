@@ -1,0 +1,1 @@
+Native builds are downloadabe versions of asciicker that can be runned using game.exe or asciid.exe in the comfort of your files. Native builds allow for modding, map creation, playing offline, and server hosting. When you run a native build, it would take more performance than running it on a browser.

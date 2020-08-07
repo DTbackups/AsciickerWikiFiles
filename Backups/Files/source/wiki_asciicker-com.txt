@@ -1,0 +1,6 @@
+[[f>image screenshot size="medium"]]**[https://asciicker.com asciicker.com]** is the website that hosts ASCIICKER. All versions are hosted, in the format asciicker.com/[version]. It was originally a placeholder and contained an animation imitating static[((bibcite static))]. However, it now contains a home page with all versions up to Y6, and links to Twitter, Reddit, and Discord.
+
+
+[[bibliography]]
+: static : https://web.archive.org/web/20191008041238/http://asciicker.com:80/ Note: Not seizure-friendly
+[[/bibliography]]

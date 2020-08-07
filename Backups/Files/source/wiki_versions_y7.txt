@@ -1,0 +1,19 @@
+**Y7** is an upcoming version of ASCIICKER, which will introduce fighting mechanics.
+
++ Upcoming features
+
+* Fighting mechanics[((bibcite fightingSource))]
+* [[[wiki:NPCs|Non-player Characters]]][((bibcite avaSource))]
+* Current loading screen will be replaced by an ASCII loading screen or splash[((bibcite splashSource))]
+* Health Points will be displayed on the red bar[((bibcite hpSource))]. The blue bar will not change[((bibcite blueBarSource))]
+Y7 will not be multiplayer[((bibcite multiSource))], however this will be re-implemented in later versions[((bibcite multiReimpSource))].
+
+[[bibliography]]
+: fightingSource : https://discordapp.com/channels/651708466590646272/653332222006263838/724002363597389845
+: avaSource : https://discordapp.com/channels/651708466590646272/653332222006263838/724003066738638908
+: splashSource : https://discordapp.com/channels/651708466590646272/653329555498729525/725634017403076629
+: hpSource : https://discordapp.com/channels/651708466590646272/653329555498729525/725765923700473889
+: blueBarSource : https://discordapp.com/channels/651708466590646272/653329555498729525/725766068529791141
+: multiSource : https://discordapp.com/channels/651708466590646272/653329555498729525/725995003536605195
+: multiReimpSource : https://discordapp.com/channels/651708466590646272/653329555498729525/725996036539154509
+[[/bibliography]]

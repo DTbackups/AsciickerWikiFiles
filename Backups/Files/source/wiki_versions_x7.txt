@@ -1,0 +1,21 @@
++ Description
+x7 marks the first time we see Chuck, but only in his front sprite that doesn't animate or rotate. x7 adds new houses that are randomly positioned everytime you refresh the page. x7 also adds a new map image that looks somewhat like x5 and x6's, but more redder and less chaotic, and generates the terrain differently so you can conclude that terrain generation has changed.
+
+++ Features
+**Player sprite**
+**Randomly placed houses**
+**Sensitive rotating that rotates up to 6 angles**
+**A bunch of hills to climb up on**
+Map rendering version **2**
+Grid lines
+Shallow and clear water
+Moving via WASD and arrow keys
+Click and drag movement
+Friction when you stop moving is slippery
+Pressing Q and E rotates your perspective up to 12 angles
+Can climb up any hill at ease
+
+
+
++ Chronology
+The map dates back to 2017-12-08 08:57 while Chuck (temp.png) dates to 2017-12-08 19:07.
