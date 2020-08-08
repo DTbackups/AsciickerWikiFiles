@@ -1,0 +1,8 @@
++ Use
+This [[[wiki:items:potions |potion]]] removes [[[wiki:items:potions:grey-potion]]]'s effect.
+Possibly will remove all effects caused by potions in future.
+
+[[div]]
+**Gold Potion on ground:**
+[[<image gold_p.PNG]]
+[[/div]]

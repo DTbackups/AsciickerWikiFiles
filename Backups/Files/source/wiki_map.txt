@@ -8,8 +8,8 @@ Rock Island is the biggest island on the ASCIICKER map. It is composed mainly of
 ++ Chronology
 Rock Island was introduced in [[[wiki:versions:y2|Y2]]]. In [[[wiki:versions:y3|Y3]]], potions were added to it. [[[wiki:versions:y5|Y5]]] primarily served to make the rocks better defined, but it also added bridges and leafless trees.
 
-+ Pirate Ship
-The Pirate Ship is a ship with a white sail and black ropes. To get to this ship, you have to jump across rocks that is west from where you spawn.
++ Ship
+The Ship has a white sail and black ropes. To get to this ship, you have to jump across rocks that is west from where you spawn.
 [[f>image y5_pirateship size="small" alt="Pirate Ship, as of y5"]]
 ++ Chronology
 The pirate ship was introduced in [[[wiki:versions:y0|Y0]]]. Ropes have been added to the mast since [[[wiki:versions:y4|Y4]]].

@@ -1,0 +1,21 @@
++ Use
+
+Potions are [[[wiki:items |items]]] that can be used to achieve various boosts.
+Currently only functional potion is [[[wiki:items:potions:grey-potion |Grey Potion]]], with ability to summon and ride wolf.
+[[[wiki:items:potions:red-potion |Red Potion]]] will be used to restore Health, [[[wiki:items:potions:blue-potion |Blue Potion]]] - Mana.
++ List of all potions
+
+Currently there are seven different potions:
+* [[[wiki:items:potions:red-potion |Healing Potion]]],
+* [[[wiki:items:potions:blue-potion |Mana Potion]]],
+* [[[wiki:items:potions:green-potion |Unidentified Green Potion]]],
+* [[[wiki:items:potions:pink-potion |Unidentified Pink Potion]]],
+* [[[wiki:items:potions:cyan-potion |Unidentified Cyan Potion]]],
+* [[[wiki:items:potions:gold-potion |Unidentified Gold Potion]]],
+* [[[wiki:items:potions:grey-potion |Unidentified Grey Potion]]].
+
+[[div]]
+
+**Player inventory with all potions present:**
+[[<image potions.PNG]]
+[[/div]]
