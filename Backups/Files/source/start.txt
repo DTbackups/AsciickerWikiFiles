@@ -15,7 +15,7 @@ Everything Asciicker:
 * [https://reddit.com/r/asciicker The official ASCIICKER subreddit]
 * [https://discordapp.com/invite/DzSuhHs The official ASCIICKER discord server]
 ----
-This wiki is still pretty new, so please add as much information as you can (preferably cited), discuss said information on [[[talk:start|talk pages]]] or in the wiki channel on our discord server, and share it around. Have fun browsing and editing!
+This wiki is still pretty new, so please add as much information as you can (preferably cited), discuss said information on [[[talk:start|talk pages]]] or in the [*https://discord.com/channels/651708466590646272/741433512325808177 wiki channel] on our discord server, and share it around. Have fun browsing and editing!
 
 [[/cell]]
 [[/row]]
@@ -47,11 +47,13 @@ Here's a TODO (please add if needed):
  * [[[wiki:items:potions]]]
  * [[[wiki:items:armour]]]
  * [[[wiki:items:weapons]]]
+ * [[[wiki:items:shields]]]
  * [[[wiki:items:rings]]]
 * ASCIICKER versions (see [[[wiki:versions]]])
 * Map features (see [[[wiki:map]]])
 * Making main page mobile-friendly (I have no clue how to do this help)
 
++++ Discuss changes in [https://discordapp.com/invite/DzSuhHs discord server]! 
 [[/cell]]
 [!-- FIRST RIGHT CELL --]
 [[cell style="width: 50%; border: 1px solid grey; background-color: #EDFCEA; padding: 20px; vertical-align: top;"]]

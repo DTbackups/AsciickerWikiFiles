@@ -1,10 +1,11 @@
-Items are used in game to access certain abilities.
-There are currently six types of items:
+Items are used in-game to access certain abilities.
+There are currently sieven types of items:
 * [[[wiki:items:foods |Foods]]],
 * [[[wiki:items:drinks |Drinks]]],
 * [[[wiki:items:potions |Potions]]],
-* [[[wiki:items:weapons |Weapons]]],
 * [[[wiki:items:armour |Armour]]],
+* [[[wiki:items:weapons |Weapons]]],
+* [[[wiki:items:sheilds |Sheilds]]],
 * [[[wiki:items:rings |Rings]]].
 
 Example of player inventory:
@@ -14,7 +15,7 @@ Wine, Unidentified Pink Ring, Plum, Plus Sword and Heavy Armor
 
 [[image inventory.PNG size="small"]]
 Wine is [[[wiki:items:drinks |Drink]]],
-Plum is [[[wiki:items:consumables |Food]]], while Unidentified Pink Ring is [[[wiki:items:rings |Ring]]] type, Sword is Weapon and Heavy Armor is [[[wiki:items:armour |Armour]]] type item.
+Plum is [[[wiki:items:consumables |Food]]], while Unidentified Pink Ring is [[[wiki:items:rings |Ring]]] type, Sword is [[[wiki:items:weapons |Weapon]]] and Heavy Armor is [[[wiki:items:armour |Armour]]] type item.
 
-[[[wiki:items:weapons |Weapons]]], [[[wiki:items:rings |Rings]]] and [[[wiki:items:armour |Armour]]] can be equipped.
+[[[wiki:items:weapons |Weapons]]], [[[wiki:items:rings |Rings]]], [[[wiki:items:armour |Armour]]] and [[[wiki:items:sheilds |Sheilds]]] can be equipped.
 In inventory this selection reflects with red colour in background.

@@ -1,0 +1,22 @@
+Current list of all weapons:
+
+* Small Sword (equippable)
+Just to the left of spawn
+* Flail
+On the southernmost part of the spawn island
+* Crossbow
+Right next to the flail
+* Lumber Axe
+Across the river from the southernmost part of the spawn island
+* Plus Sword (equippable)
+On the southernmost part of the main island
+* Alpha Sword (equippable)
+Resting on the side of the Skull
+* Small Saber (equippable)
+In the group of trees opposite the houses near spawn
+* Small Mace
+In the group of trees opposite the houses near spawn
+* Giant's Hammer
+Inside the house farther away from spawn
+* Giant's Mace
+Inside the house closer to spawn

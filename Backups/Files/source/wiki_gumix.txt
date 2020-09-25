@@ -1,18 +1,15 @@
 [[=image gumix.png style="width: 10%;"]]
 
-+ What we know about Gumix
+**Gumix** (/guːmɪks/; Polish: /ɡumiks/) is a Polish software developer, he is the creator and developer of [*https://ascii-patrol.com/ Ascii Patrol] and [*https://asciicker.com Asciicker]. He is developing them as hobby projects. He is employed as the lead developer for a graphics engine designed for gambling machines^^[((bibcite job))]^^. He was born on the 29th of December^^[((bibcite bday))][((bibcite bdaybetter))]^^, but he has not stated the year.
 
-* Gumix (guː mɪks) is a Polish software developer, he is the creator and developer of Asciicker which he is developing as a hobby project.
-* He is employed as the lead developer for a graphics engine designed for gambling machines^^[((bibcite job))]^^.
-* His birthday is the 29th of December^^[((bibcite bday))][((bibcite bdaybetter))]^^.
-----
 
 + Online presence / Accounts
 Reddit: [https://www.reddit.com/user/gumiks/ u/gumiks]
 Twitter: [https://twitter.com/MrGumix @MrGumix]
 Discord: gumix#2242 (id 639198086308036660)
 GridSageGames forum: [https://www.gridsagegames.com/forums/index.php?action=profile;u=536 Gumix]
-----
+
+
 [[bibliography]]
 : job : https://youtu.be/grMIbHPK21M?t=169
 : bday : https://cdn.discordapp.com/attachments/499755648813236234/698241142634053732/unknown.png
