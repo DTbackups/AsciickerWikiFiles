@@ -1,22 +1,18 @@
-Current list of all weapons:
+Asciicker (as of version y7) has a total of 11 weapons of which 4 are equippable.
 
-* Small Sword (equippable)
-Just to the left of spawn
-* Flail
-On the southernmost part of the spawn island
-* Crossbow
-Right next to the flail
-* Lumber Axe
-Across the river from the southernmost part of the spawn island
-* Plus Sword (equippable)
-On the southernmost part of the main island
-* Alpha Sword (equippable)
-Resting on the side of the Skull
-* Small Saber (equippable)
-In the group of trees opposite the houses near spawn
-* Small Mace
-In the group of trees opposite the houses near spawn
-* Giant's Hammer
-Inside the house farther away from spawn
-* Giant's Mace
-Inside the house closer to spawn
+Here is a list of all available weapons:
+
+[[div style="width: 50%;margin:0;"]]
+||~ Appearance ||~ Name ||~ Location ||~ Equippable ||
+|| [[=image Small-sword.png]] || Small Sword || Just to the left of spawn || ##green|Yes## ||
+|| [[=image Flail.png]] || Flail || On the southernmost part of the spawn island || ##red|No## ||
+|| [[=image Crossbow.png]] || Crossbow || Right next to the flail || ##red|No## ||
+|| [[=image Lumber-axe.png]] || Lumber Axe || Across the river from the southernmost part of the spawn island || ##red|No## ||
+|| [[=image Plus-sword.png]] || Plus Sword || On the southernmost part of the main island || ##green|Yes## ||
+|| [[=image Alpha-sword.png]] || Alpha Sword || Resting on the side of the Skull || ##green|Yes## ||
+|| [[=image Small-saber.png]] || Small Saber || In the group of trees opposite the houses near spawn || ##green|Yes## ||
+|| [[=image Small-mace.png]] || Small Mace || In the group of trees opposite the houses near spawn || ##red|No## ||
+|| [[=image Giants-hammer.png]] || Giant's Hammer || Inside the house farther away from spawn || ##red|No## ||
+|| [[=image Giants-mace.png]] || Giant's Mace || Inside the house closer to spawn || ##red|No## ||
+|| [[=image Giants-axe.png]] || Giant's Axe || On the big rock-island near a tree || ##red|No## ||
+[[/div]]

@@ -1,6 +1,20 @@
-y0 marks the beginning of the Y Engine, something way less limited than the X Engine.
+Y0 marks the beginning of the Y Engine, something way less limited than the X Engine. It uses [https://en.wikipedia.org/wiki/WebAssembly WebAssembly].
 
-+ Description
++ Controls
+(Blank indicates that controls don't exist for that platform)
+[[div style="width: 75%;margin:0 auto;"]]
+||  || Keyboard || Mouse || Touch || 
+|| Move || {{WASD}} keys/Arrow keys || Press and hold LMB in desired direction || Touch anywhere on screen, and drag in desired direction ||
+|| Move slower || Shift key || || ||
+|| Rotate camera || {{Q/E}} keys || Drag RMB || Hold finger on left/right screen edge ||
+|| Jump || Space key || Press RMB while holding LMB || While moving, tap with another finger (must not have weapon) ||
+[[/div]]
+
++ Changes
+* Game Map has been updated.
+* Reflections now are impacted by waves in water
+* Moving using mouse has same speed as using keyboard to move
+* Zooming doesn't work
 
 + Native builds
 There are 5 of the native builds.
